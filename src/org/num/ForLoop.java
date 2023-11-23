@@ -9,11 +9,20 @@ public class ForLoop {
 
 			System.out.println("Developer Work");
 			System.out.println("DEveloper work is fine");
-			
-			System.out.println("TESTINGDONE");
-			System.out.println("ProjectCode is Fine");
 
 			
+			System.out.println("TESTINGDONE");
+			System.out.println("ProjectCode is Fine"); 
+			
+			System.out.println(i);
+			System.out.println("Developer Work 2");
+			System.out.println("DEveloper work is fine");
+
+			
+			
+
+			
+
 
 			}
 		}
